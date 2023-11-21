@@ -1,13 +1,13 @@
-md# PR Type
+# PR Type
 - Features
 - Bug Fix
 - Documentaion
 - ETC
 
-md# Description
+# Description
 - dd
 - dd
 
-md# xxx
+# xxx
 - x
 - d
